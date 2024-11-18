@@ -114,12 +114,12 @@ sections:
   #       Easily build anything with blocks - no-code required!
         
   #       From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
-  #     button:
-  #       text: Get Started
-  #       url: https://hugoblox.com/templates/
-     design:
-      card:
-        Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
+    #    button:
+    #      text: Get Started
+    #      url: https://hugoblox.com/templates/
+    #  design:
+    #   card:
+    #     Card background color (CSS class)
+    #     css_class: "bg-primary-700"
+    #     css_style: ""
 ---
