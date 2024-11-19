@@ -5,7 +5,7 @@ layout: "contact" # Ensure your Hugo theme supports a contact layout or customiz
 
 Feel free to reach out to me via any of the following contact methods:
 
-- *Phone*:  01781864628  
+- *Phone*:  01827582860
   
 - *Email*:  [tuskakhatun6@gmail.com]
 
