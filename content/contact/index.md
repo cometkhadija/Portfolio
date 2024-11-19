@@ -7,8 +7,8 @@ Feel free to reach out to me via any of the following contact methods:
 
 - *Phone*:  01827582860
   
-- *Email*:  [tuskakhatun6@gmail.com]
+- *Email*:  [sayedakhadijarahman@gmail.com]
 
-- *GitHub*: (https://github.com/tuska-web)
+- *GitHub*: (https://github.com/cometkhadija)
 
-- *LinkedIn*: (https://www.linkedin.com/in/tuska-khatun-b20199330/)
+
